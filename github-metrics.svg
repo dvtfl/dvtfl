@@ -171,7 +171,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/nix-init</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]</div>
@@ -290,7 +290,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Nov 2024, 00:12:04 (timezone Asia/Tbilisi) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2024, 01:10:06 (timezone Asia/Tbilisi) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
